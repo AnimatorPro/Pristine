@@ -14,7 +14,6 @@ document this tiny bit of significant computer history, promote the usefulness
 of this program and hopefully improve and modify it for future and current 
 users, many of whom still find it very useful and fun.
 
-More info at [the Animator Pro project homepage][1]
 
 Pristine
 --------
@@ -30,9 +29,6 @@ License
 -------
 This project is not endorsed by Autodesk, Inc., 
 Autodesk is a trademark of Autodesk, Inc.,
-
-Autodesk, Inc's tradmarks on "Autodesk Animator" 
-and "Animator Pro" are expired. 
 
 All source code is ©1989-1994 Jim Kent and is available here under 
 the BSD license, reproduced below:
